@@ -1,5 +1,8 @@
 # MiniProjects
 
+Qualquier problema reportarlo en "Issues".
+Any problem can be reported at "Issues".
+
 | Número | Proyecto | Web |
 | --- | --- | --- |
 | `01` | Log & Sign In | [Visitar](https://logsigninpablotutor.netlify.app/) |
