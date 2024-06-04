@@ -8,7 +8,7 @@ Cosas a tener en cuenta, no quiero que haga el fetch tres veces lo que quiero es
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-_In this challenge, I propose the following: If you have tried the [WEB](https://getuserspablodevtutor.netlify.app/) you will have noticed that only one user appears at a time, 
+In this challenge, I propose the following: If you have tried the [WEB](https://getuserspablodevtutor.netlify.app/) you will have noticed that only one user appears at a time, 
 so what I propose is the following. The goal is to make three appear at a time instead of one.
 
 Things to keep in mind, I don't want it to fetch three times, what I want is that each time we click on the button and get a new user, they are stored up to three and 
