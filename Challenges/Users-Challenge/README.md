@@ -1,11 +1,11 @@
 # Users Challenges
 
-_En este reto os propongo lo siguiente, si habeis probado la [WEB](https://getuserspablodevtutor.netlify.app/) habreis notado que solo aparece un usuario a la vez, asi que lo que
+En este reto os propongo lo siguiente, si habeis probado la [WEB](https://getuserspablodevtutor.netlify.app/) habreis notado que solo aparece un usuario a la vez, asi que lo que
 yo propongo es lo siguiente. El objetivo es hacer que en lugar de uno se vean tres a la vez. 
 
 Cosas a tener en cuenta, no quiero que haga el fetch tres veces lo que quiero es que cada vez que clickemos en el boton y consigamos un usuario nuevo, estos se almacenen hasta tres y cada vez que superemos ese nuemro y se pulse el boton otra vez el primer usuario se elimina y se almacena el nuevo y asi para siempre.
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 _In this challenge, I propose the following: If you have tried the [WEB](https://getuserspablodevtutor.netlify.app/) you will have noticed that only one user appears at a time, 
