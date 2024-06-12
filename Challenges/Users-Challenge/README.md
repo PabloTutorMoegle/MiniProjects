@@ -1,4 +1,4 @@
-# Users Challenges
+# Users Challenge
 
 En este reto os propongo lo siguiente, si habeis probado la [WEB](https://getuserspablodevtutor.netlify.app/) habreis notado que solo aparece un usuario a la vez, asi que lo que
 yo propongo es lo siguiente. El objetivo es hacer que en lugar de uno se vean tres a la vez. 
