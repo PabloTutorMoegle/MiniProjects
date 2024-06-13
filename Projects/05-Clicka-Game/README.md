@@ -1,1 +1,1 @@
-# MiniProjects
+# Clicka Game
