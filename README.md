@@ -14,10 +14,13 @@ Any problem can be reported at "Issues".
 | `04` | NASA Image Day | [Visitar](https://nasaimagedaypablodevtutor.netlify.app/) | [Click](https://github.com/PabloTutorMoegle/MiniProjects/tree/main/Projects/04-NASA-Image) |  |
 | `05` | Clicka Game | [Visitar](https://clicka-game-pablo-dev-tutor.netlify.app/) | [Click](https://github.com/PabloTutorMoegle/MiniProjects/tree/main/Projects/05-Clicka-Game) | [GO!](https://github.com/PabloTutorMoegle/MiniProjects/tree/main/Challenges/Clicka-Game-Challenge) |
 
+------------------------------------------------------------------------------------------------------------
 
 <div align="center">
 <img alt="me" src="https://github.com/PabloTutorMoegle/MiniProjects/assets/102219711/9b2d64e7-5579-4bca-93e5-ea66555ec3b7" width="500"/>
 </div>
+
+------------------------------------------------------------------------------------------------------------
 
 Redes Sociales // Social Media
 
