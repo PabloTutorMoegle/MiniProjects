@@ -2,9 +2,9 @@
 
 # MiniProjects
 
-Qualquier problema reportarlo en "Issues". 
+Qualquier problema reportarlo en **Issues**. 
 
-Any problem can be reported at "Issues".
+Any problem can be reported at **Issues**.
 
 | Número | Proyecto | Web | GitHub Folder | Challenge |
 | --- | --- | --- | --- | --- |
