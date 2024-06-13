@@ -1,3 +1,5 @@
+<div align="center">
+
 # MiniProjects
 
 Qualquier problema reportarlo en "Issues". 
@@ -14,8 +16,6 @@ Any problem can be reported at "Issues".
 
 
 
-<img alt="me" src="https://github.com/PabloTutorMoegle/MiniProjects/assets/102219711/9b2d64e7-5579-4bca-93e5-ea66555ec3b7" width="500" />
-
-
-
 <img alt="me" src="https://github.com/PabloTutorMoegle/MiniProjects/assets/102219711/9b2d64e7-5579-4bca-93e5-ea66555ec3b7" width="500"/>
+
+</div>
