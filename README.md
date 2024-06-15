@@ -1,7 +1,6 @@
 <div>
-  
-#⚛️ Mini Projects ⚛️
 
+# ⚛️ Mini Projects ⚛️
 
 Qualquier problema reportarlo en **Issues**. 
 
