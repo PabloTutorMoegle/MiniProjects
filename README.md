@@ -1,6 +1,8 @@
 <div>
-
-# MiniProjects
+  
+<div align="center">
+  <h1>MiniProjects</h1>
+</div>
 
 Qualquier problema reportarlo en **Issues**. 
 
