@@ -22,8 +22,10 @@ Any problem can be reported at **Issues**.
 
 ------------------------------------------------------------------------------------------------------------
 
+ES: 
 Hola gente bonita que está leyendo esto, por favor se ruega no editen ningún código que encuentren en este repositorio. Sí están autorizados a subir, pero únicamente en la carpeta de "Code" dentro de cada uno de los "Challenges". Solo en esa carpeta pueden subir archivos de código que crean que responden al challenge propuesto. Si alguien edita sin autorización del creador, es decir, PabloTutorMoegle, será automáticamente puesto en una lista de vetados y perderá la autorización de acceder a los datos del repositorio.
 
+EN:
 Hello beautiful people reading this, please do not edit any code you find in this repository. You are authorized to upload files, but only in the "Code" folder within each of the "Challenges". Only in that folder can you upload code files that you believe respond to the proposed challenge. If anyone edits without the creator's authorization, namely PabloTutorMoegle, they will be automatically placed on a banned list and will lose authorization to access the repository's data.
 
 ------------------------------------------------------------------------------------------------------------
