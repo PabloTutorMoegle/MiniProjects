@@ -1,7 +1,7 @@
 <div>
   
 <div align="center">
-  <h1 color="blue">MiniProjects</h1>
+  # ⚛️ Mini Projects ⚛️
 </div>
 
 Qualquier problema reportarlo en **Issues**. 
