@@ -2,6 +2,7 @@
   
 <div align="center">
   #⚛️ Mini Projects ⚛️
+  # Aprendiendo React ⚛️
 </div>
 
 Qualquier problema reportarlo en **Issues**. 
