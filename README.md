@@ -1,7 +1,7 @@
 <div>
   
 <div align="center">
-  # ⚛️ Mini Projects ⚛️
+  #⚛️ Mini Projects ⚛️
 </div>
 
 Qualquier problema reportarlo en **Issues**. 
