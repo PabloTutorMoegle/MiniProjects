@@ -1,7 +1,7 @@
 <div>
   
 <div align="center">
-  <h1>MiniProjects</h1>
+  <h1 widht="500">MiniProjects</h1>
 </div>
 
 Qualquier problema reportarlo en **Issues**. 
