@@ -12,7 +12,7 @@ Any problem can be reported at **Issues**.
 | `02` | Tic Tac Toe | [Visitar](https://tic-tae-toe-pablotutormoegle.netlify.app/) | [Click](Projects/02-Tic-Tac_Toe) |  |
 | `03` | Users | [Visitar](https://getuserspablodevtutor.netlify.app/) | [Click](Projects/03-Users) | [GO!](Challenges/Users-Challenge) |
 | `04` | NASA Image Day | [Visitar](https://nasaimagedaypablodevtutor.netlify.app/) | [Click](Projects/04-NASA-Image) |  |
-| `05` | Clicka Game | [Visitar](https://clicka-game-pablo-dev-tutor.netlify.app/) | [Click](Projects/05-Clicka-Game) | [GO!](Challenges/Clicka-Game-Challenge) |
+| `05` | Clicka Game | [Visitar]() | [Click](Projects/05-Clicka-Game) | [GO!](Challenges/Clicka-Game-Challenge) |
 
 ------------------------------------------------------------------------------------------------------------
 
