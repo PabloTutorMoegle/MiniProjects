@@ -14,6 +14,7 @@ Any problem can be reported at **Issues**.
 | `04` | NASA Image Day | [Visitar](https://nasaimagedaypablodevtutor.netlify.app/) | [Click](Projects/04-NASA-Image) |  |
 | `05` | Clicka Game | [Visitar]() | [Click](Projects/05-Clicka-Game) | [GO!](Challenges/Clicka-Game-Challenge) |
 | `06` | Demon Head | [Visitar](https://demonhead-pablo-dev-tutor.netlify.app/) | [Click](Projects/06-Demon-Head) | [GO!](Challenges/Demon-Head) |
+| `07` | Router | [Visitiar]() | [Click](Projects/07-Router) |  |
 
 ------------------------------------------------------------------------------------------------------------
 
