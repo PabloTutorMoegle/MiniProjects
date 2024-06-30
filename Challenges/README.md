@@ -17,4 +17,6 @@
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-  ![image](https://github.com/PabloTutorMoegle/MiniProjects/assets/102219711/d010b4fd-525d-45ac-94d0-ede99d9bb6be)
+<div align="center">
+<img alt="squirtle" src="https://github.com/PabloTutorMoegle/MiniProjects/assets/102219711/d010b4fd-525d-45ac-94d0-ede99d9bb6be" />
+</div>
