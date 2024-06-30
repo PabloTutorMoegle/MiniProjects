@@ -36,7 +36,7 @@ Hello beautiful people reading this, please do not edit any code you find in thi
 
 Si teneis cualquier sigerencia sobre algo que querais que hagamos escribidme por [Instagram](https://www.instagram.com/pablo_dev_tutor/), y lo intentaremos hacer.
 
-If you have eny idea you want to do, contact me by [Instagram](https://www.instagram.com/pablo_dev_tutor/), and we will try it.
+If you have eny idea you want to do, contact me on [Instagram](https://www.instagram.com/pablo_dev_tutor/), and we will try it.
 
 ------------------------------------------------------------------------------------------------------------
 
