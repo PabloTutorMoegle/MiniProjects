@@ -7,6 +7,7 @@ Qualquier problema reportarlo en **Issues**.
 Any problem can be reported at **Issues**.
 
 <div align="center">
+  
 | Número | Proyecto | Web | GitHub Folder | Challenge |
 | --- | --- | --- | --- | --- |
 | `01` | Log & Sign In | [Visitar](https://logsigninpablotutor.netlify.app/) | [Click](Projects/01-Log-Sign-In) |  |
@@ -16,6 +17,7 @@ Any problem can be reported at **Issues**.
 | `05` | Clicka Game | | [Click](Projects/05-Clicka-Game) | [GO!](Challenges/Clicka-Game-Challenge) |
 | `06` | Demon Head | [Visitar](https://demonhead-pablo-dev-tutor.netlify.app/) | [Click](Projects/06-Demon-Head) | [GO!](Challenges/Demon-Head) |
 | `07` | Router | | [Click](Projects/07-Router) |  |
+
 </div>
 
 ------------------------------------------------------------------------------------------------------------
